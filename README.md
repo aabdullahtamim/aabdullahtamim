@@ -65,7 +65,7 @@ Live: https://ecommerce.example.com · Repo: `YOUR_USERNAME/ecommerce-ui`
 Short: Product listing, cart and checkout UI (frontend-only demo).
 
 **Portfolio** — _React · Vite_  
-Live: https://your-portfolio.example.com · Repo: `YOUR_USERNAME/portfolio`  
+Live:  https://abdullah-tamim.vercel.app · Repo: `aabdullahtamim/portfolio`  
 Short: Personal portfolio with projects, blog links and contact form.
 
 ---
