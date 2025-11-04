@@ -45,11 +45,11 @@ I’m a frontend developer passionate about UI/UX, performance and clean code. I
 
 ## 📫 Contact
 - 📍 Location: Dhaka, Bangladesh
-- ✉️ Email: yourprofessionalemail@gmail.com
-- 📞 Phone: +8801XXXXXXXXX
-- 🔗 Portfolio: https://your-portfolio.example.com
+- ✉️ Email:aabdullahtamim01@gmail.com
+- 📞 Phone: +8801604515250
+- 🔗 Portfolio: https://abdullah-tamim.vercel.app
 - 🔗 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
-- 🔗 GitHub: https://github.com/YOUR_USERNAME
+- 🔗 GitHub: https://github.com/aabdullahtamim
 
 ---
 
