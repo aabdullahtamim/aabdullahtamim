@@ -1,20 +1,34 @@
+
+
+<h1 align="center">👋 Hi, I'm <span style="color:#9A6DFF">Abdullah Tamim</span></h1>
+<h4 align="center"> **Frontend Developer** — building responsive, pixel-perfect user interfaces with React, TypeScript & Tailwind CSS.</h4>
+
+---
+
 <!-- banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/2cb59b6a-c264-41c2-9a55-4c78a08736e2" alt="<img width="904" height="254" alt="Banner" width="100%"/>
 </p>
 
-# 👋 Hi, I'm Abdullah Tamim
-**Frontend Developer** — building responsive, pixel-perfect user interfaces with React, TypeScript & Tailwind CSS.
+----
+<h3 align="center">💻 Frontend Developer | ⚙️ Learning Backend </h3>
 
----
+About Me:
+- 🏦 I'm a Frontend Developer – Building responsive, pixel-perfect user interfaces with React, TypeScript & Tailwind CSS.
+- 💻 I use daily: **react.js**, **tailwindcss**,**redux toolkit**, **node.js**,**mongoDB**, **typescript**, **next.js**,
+- 📖 I’m interested in learning coding, especially in web development.
+- 💞️ I’m looking to collaborate on open-source projects, and
+- 👯 hackathons, or any coding-related challenges.
+- 📌 Goal: Become a **Full-Stack Developer**.
+- 🧑‍💻 Tech I work on :
 
-## 🔎 About Me
-I’m a frontend developer passionate about UI/UX, performance and clean code. I enjoy turning designs into interactive experiences and learning backend tech to become a stronger full-stack dev.
+# 💻 Tech Stack:
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 
 ## 🔭 Current Activities
-- 🚀 Building a tourism website using **Next.js** (responsive + SSR)
+- 🚀 Building a tourism website using **React.js** (responsive + user friendly)
 - 🧪 Improving a portfolio project: adding authentication and API integration
 - 📚 Learning advanced **Node.js**, deployment workflows and MongoDB Atlas
 
@@ -51,31 +65,66 @@ I’m a frontend developer passionate about UI/UX, performance and clean code. I
 - 🔗 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
 - 🔗 GitHub: https://github.com/aabdullahtamim
 
----
-
-## 🔖 Featured Projects
-> *Pin at least 3 client-side repositories — example entries below (replace with your repos).*
-
-**Tourism Website** — _Next.js · TailwindCSS_  
-Live: https://tourism.example.com · Repo: `YOUR_USERNAME/tourism-website`  
-Short: Interactive tourism site with destinations, search, and gallery.
-
-**E-Commerce UI** — _React · Redux Toolkit_  
-Live: https://ecommerce.example.com · Repo: `YOUR_USERNAME/ecommerce-ui`  
-Short: Product listing, cart and checkout UI (frontend-only demo).
-
-**Portfolio** — _React · Vite_  
-Live:  https://abdullah-tamim.vercel.app · Repo: `aabdullahtamim/portfolio`  
-Short: Personal portfolio with projects, blog links and contact form.
+## 🌐 Socials:
+<p align="center">
+  <a href="https:">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+## 🏆 Achievements & Activity
+- ⭐ 50+ Stars received across repositories  
+- 🔁 Contributed to Open Source (PRs + Issues)  
+- 📌 20+ Public Repositories  
+- 🧑‍🏫 Mentor in 2+ student coding groups  
+- 🔍 Solved 100+ coding challenges (JS & React)
+
+
+
+<!-- Snake Game Repo View -->
+
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aabdullahtamim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🎓 Certifications & Learning Path
+📘 **Frontend Development** — freeCodeCamp, 2024  
+📗 **JavaScript & React** — Coursera, 2024  
+📙 **Backend Basics (Node.js + MongoDB)** — Udemy, 2025 *(Ongoing)*  
+📘 **Full-Stack Path** — Personal project-based learning (Next.js + Express)
+
+
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aabdullahtamim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aabdullahtamim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aabdullahtamim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aabdullahtamim&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=aabdullahtamim&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🔁 Contribution Activity
 - **Contributions:** (Shown by GitHub contribution graph and the stats above)
