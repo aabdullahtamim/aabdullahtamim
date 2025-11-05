@@ -7,7 +7,7 @@
 
 <!-- banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2cb59b6a-c264-41c2-9a55-4c78a08736e2" alt="<img width="904" height="254" alt="Banner" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/df66ef4f-d865-4e71-b504-740f285bf211" width="904" height="255" alt="banner" width="100%"/>
 </p>
 
 ----
